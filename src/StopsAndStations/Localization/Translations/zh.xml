@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <language id="zh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <translation id="Passengers" value="Configuration" />
-  <translation id="MaximumPassengers" value="Maximum passengers waitng at a transport line stop:" />
+  <translation id="Passengers" value="配置" />
+  <translation id="MaximumPassengers" value="在交通线路车站等待的最大乘客数:" />
 
-  <translation id="MaxWaitingPassengersBus" value="Line Bus" />
-  <translation id="MaxWaitingPassengersEvacuationBus" value="Evacuation Bus" />
-  <translation id="MaxWaitingPassengersTouristBus" value="Sightseeing Bus" />
-  <translation id="MaxWaitingPassengersTram" value="Tram" />
-  <translation id="MaxWaitingPassengersMetro" value="Metro" />
-  <translation id="MaxWaitingPassengersTrain" value="Train" />
-  <translation id="MaxWaitingPassengersMonorail" value="Monorail" />
-  <translation id="MaxWaitingPassengersShip" value="Ship" />
-  <translation id="MaxWaitingPassengersAirplane" value="Airplane" />
-  <translation id="MaxWaitingPassengersCableCar" value="Cable Car" />
-  <translation id="MaxWaitingPassengersHotAirBalloon" value="Hot Air Balloon" />
+  <translation id="MaxWaitingPassengersBus" value="公共汽车" />
+  <translation id="MaxWaitingPassengersEvacuationBus" value="疏散公共汽车" />
+  <translation id="MaxWaitingPassengersTouristBus" value="观光巴士" />
+  <translation id="MaxWaitingPassengersTram" value="有轨电车" />
+  <translation id="MaxWaitingPassengersMetro" value="地铁" />
+  <translation id="MaxWaitingPassengersTrain" value="火车" />
+  <translation id="MaxWaitingPassengersMonorail" value="单轨列车" />
+  <translation id="MaxWaitingPassengersShip" value="轮船" />
+  <translation id="MaxWaitingPassengersAirplane" value="飞机" />
+  <translation id="MaxWaitingPassengersCableCar" value="缆车" />
+  <translation id="MaxWaitingPassengersHotAirBalloon" value="热气球" />
 
 </language>
